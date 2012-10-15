@@ -36,6 +36,13 @@ Spotify BT Remote Control is a small project to control the spotify player from 
 <li>Locate your computer and enjoy!</li>
 </ul>
 
+<h2>TESTED ON</h2>
+<ul>
+<li>Server: Win7 x86 / Client: Nokia C2-01</li>
+</ul>
+
+<i>If you try it, please give me your feedback!</i>
+
 <h2>TODO</h2>
 <ul>
 <li>Finish the search and play option</li>
